@@ -5,5 +5,5 @@ This is a simple mortgage calculator app built to practice Java fundamentals lik
 ## Installation
 
 - Pull the project from this public repository.
-- Navigate to the root directory of the project.
-- Finally, run `java -jar mortgage-calculator.jar` to start the program within your terminal.
+- Navigate to the root directory of the project in the terminal.
+- Finally, run `java -jar mortgage-calculator.jar` to start the program.
